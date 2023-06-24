@@ -1,0 +1,18 @@
+.optionsList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 0;
+}
+
+.optionBtn { 
+   font-size: 26px;
+   padding: 10px;
+   background-color: #e1ecf4;
+   border-radius: 8px;
+   border: 1px solid #7aa7c7;
+   box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+   color: #39739d;
+   cursor: pointer;
+}

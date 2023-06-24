@@ -1,0 +1,13 @@
+.statisticValueList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+    padding: 0;
+}
+
+.statisticValue {
+    font-size: 24px;
+}
